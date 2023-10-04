@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remainaloof 
-- 👀 I’m interested in ... C# XR UNITY VURTURE
+- 👀 I’m interested in ... C# UNITY - 3D XR
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...maby we are so sticky
 - 📫 How to reach me ...mainsqueeze030@gmail.com
