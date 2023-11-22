@@ -4,9 +4,9 @@
 - ✨Take it slow and stead
 ## Tech !
 - [C#] 
- [@mainsqueeze030@gmail.com]
-[johanhong@naver.com]
-[Content - VR - XR - 3D - Game - ]
+- [@mainsqueeze030@gmail.com]
+- [johanhong@naver.com]
+-[Content - VR - XR - 3D - Game - ]
 - maybe .. we are so sticky ? * __ *   ♥
 
 
