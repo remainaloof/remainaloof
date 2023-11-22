@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @remainaloof 
-- 👀 I’m interested in ... C# UNITY - 3D XR
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...maby we are so sticky
-- 📫 How to reach me ...mainsqueeze030@gmail.com
+##Hi,
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http![header](https://capsule-render.vercel.app/api?type=wave&color=900&height=100&section=header&text=HANHONG'sGit *3*&fontSize=40)
+
+- ✨Take it slow and stead
+## Tech !
+- [C#] 
+ [@mainsqueeze030@gmail.com]
+[johanhong@naver.com]
+[Content - VR - XR - 3D - Game - ]
+- maybe .. we are so sticky ? * __ *   ♥
+
+
 
 <!---
 remainaloof/remainaloof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
