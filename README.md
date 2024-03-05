@@ -51,6 +51,7 @@
   
   <img src="https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-7776AB?style=for-the-badge&logo=Csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualstudio-7776AB?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
  
 
 
