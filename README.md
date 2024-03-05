@@ -25,19 +25,19 @@
   <h3> I'm 1999 11 12 birth. Graphics developer from Korea.</h3>
 </p>
 
- - 🎁 Learning C# &  (( Unity )) , VFX Graph - Shader Graph
+ ✿ 🎁 Learning C# &  (( Unity )) , VFX Graph - Shader Graph
  
- - 🔭 NEWmedia Fangirl die for X R 😼
+ ✿  NEWmedia Fangirl die for X R 😼
 
- - 🫀 Into High Energy Physics ~ and Peace.
+ ✿ 🫀 Into High Energy Physics ~ and Peace.
  
- - I do fullstack and a bit of everything :heart:
+ ✿ I do fullstack and a bit of everything :heart:
  
- -  All About living life at its best.
+ ✿  All About living life at its best.
 
- -  It's out of the blue, but i really like Unity Engine. " Unity " Unique.
+ ✿  It's out of the blue, but i really like Unity Engine. " Unity " Unique.
   
- - 💬 Connect? lets get  👉🏼 Johanhong@naver.com / mainsqueeze030@gmail.com
+ ✿ 💬 Connect? lets get  👉🏼 Johanhong@naver.com / mainsqueeze030@gmail.com
  
   </a>
 
