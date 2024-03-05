@@ -50,6 +50,9 @@
 
 
 
+
+
+
 <br />
 <h3 align="center"><b>My Sharp Knife. 🗡️ </b></h3>
 <p align="center">
@@ -80,9 +83,9 @@
 
 
 
-<h2 align="center">🤝 Come with ME </h2>
+<h2 align="center"> Come with ME </h2>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with People</p>
+<p align="center"> If you like my projects, Give them ⭐ and Share it with People</p>
 </p>
 <p align="center">Made with in KOREA</p>
 
