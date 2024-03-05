@@ -49,8 +49,8 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   
-  <img src="https://img.shields.io/badge/Unity-3776AB?style= for-the-badge&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c#-7776AB?style= for-the-badge&logo=c#&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=red"/>
  
 
 
