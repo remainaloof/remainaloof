@@ -20,9 +20,7 @@
    ✿ I believe in people who believe in themselves and move forward..so ~ ❠   </i>
   </h5>
 
-<br />
-<img align="right" height="350px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
+
   <h3> I'm 1999. 11. 12 birth. Graphics developer from Korea.</h3>
 </p>
 
@@ -42,7 +40,11 @@
  
   </a>
 
-</p>
+
+<br />
+<img align="right" height="300px" width="250px" alt="GIF" src="https://github.com/remainaloof/UNITY-C/assets/142482805/21abe169-9100-4e5c-8b40-8ca00c153e14" />
+<p align="center">
+
 
 <br />
 <h3 align="center"><b>My Sharp Knife. 🗡️ </b></h3>
@@ -67,14 +69,11 @@
 <bt />
 
 
-<br />
-<img align="right" height="300px" width="250px" alt="GIF" src="https://github.com/remainaloof/UNITY-C/assets/142482805/21abe169-9100-4e5c-8b40-8ca00c153e14" />
-<p align="center">
 
 
 
 
-   
+
 
 
 <h2 align="center">🤝 Come with ME </h2>
