@@ -65,9 +65,9 @@
     <img src="https://img.shields.io/badge/VFX Graph-2972AB?style=for-the-badge&logo=Heart&logoColor=black"/>
      <img src="https://img.shields.io/badge/ShaderGraph-2222AB?style=for-the-badge&logo=Heart&logoColor=black"/>
        <img src="https://img.shields.io/badge/AR-1000AB?style=for-the-badge&logo=Heart&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MotionGraphic-0001AB?style=for-the-badge&logo=Heart&logoColor=black"/>
-       <img src="https://img.shields.io/badge/GPU-00FF7F?style=for-the-badge&logo=Heart&logoColor=black"/>
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MotionGraphic-66C4C3?style=for-the-badge&logo=Heart&logoColor=black"/>
+       <img src="https://img.shields.io/badge/GPU-FFB6C1?style=for-the-badge&logo=Heart&logoColor=black"/>
+
  
 
 </p>
