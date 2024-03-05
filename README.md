@@ -90,7 +90,7 @@
 <p align="center">Made with in KOREA</p>
 
 <h1 align='center'>⚡<i>Stay Cool + affection </i>⚡</h1>
-<h1 align='center'><i>I just want some Space. . . </i></h1>
+<h1 align='center'><i>I just want some Space. . .⚡🛸✨  </i></h1>
 
 
 
