@@ -1,14 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=900&height=200&section=header&text=HANHONG_JO&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=900&height=200&section=header&text=HANHONGJO&fontSize=60)
 <!DOCTYPE html>
 <html lang="en">
-<!-- 
-
-    Particles thanks to ParticleJS - https://github.com/VincentGarreau/particles.js/
-    Typewriter thanks to Typewriter.js - https://github.com/tameemsafi/typewriterjs
-
- -->
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
