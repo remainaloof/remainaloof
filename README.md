@@ -50,7 +50,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/Unity-3776AB?style= for-the-badge&logo=Unity&logoColor=white"/
+
+  <img src="https://img.shields.io/badge/Unity-3776AB?style= for-the-badge&logo=Unity&logoColor=white"/>
 
 
 
