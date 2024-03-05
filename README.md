@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Visualstudio-7776AB?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/VFX Graph-2976AB?style=for-the-badge&logo=Heart&logoColor=black"/>
      <img src="https://img.shields.io/badge/ShaderGraph-5555AB?style=for-the-badge&logo=Heart&logoColor=black"/>
-       <img src="https://img.shields.io/badge/AR-8888AB?style=for-the-badge&logo=Heart&logoColor=black"/>
+       <img src="https://img.shields.io/badge/AR-1000AB?style=for-the-badge&logo=Heart&logoColor=black"/>
         <img src="https://img.shields.io/badge/MotionGraphic-8888AB?style=for-the-badge&logo=Heart&logoColor=black"/>
        <img src="https://img.shields.io/badge/GPU Love-1111AB?style=for-the-badge&logo=Heart&logoColor=black"/>
  
