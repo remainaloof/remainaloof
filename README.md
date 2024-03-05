@@ -60,23 +60,13 @@
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
  
 
-
+</p>
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
 
 
 
- ### - What i do
+<h3 align="center"><b>- - - - - - - - - - - -  </b></h3>
 
 
 <br />
