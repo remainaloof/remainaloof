@@ -3,14 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D2EDD5&height=180&section=header&text=&fontSize=33)
 ![header](https://capsule-render.vercel.app/api?type=egg&color=FFC0CB&height=80&section=header&text=&fontSize=33)
 <div align="center">
-   <h1>Hii 🐻‍❄️  I'm <a href="https://hemant.codes">HanhongJo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
+   <h1>Hii 🐻‍❄️  I'm <a href="https://hemant.codes">H A N O N </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
    
    
 </div>
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🐻‍❄️ H A N O N  | 💻🎀 Unity(Graphics*)Developer, VFX/Shader 🎀 | 🛸 KOREA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🐻‍❄️ HanHongJo  | 💻🎀 Unity(Graphics*)Developer, VFX/Shader 🎀 | 🛸 KOREA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></h3>
 </div>
 
 
