@@ -35,7 +35,7 @@
  
  ✿  All About living life at its best.
 
- ✿  It's out of the blue, but i really like Unity Engine. " Unity " Unique.
+ ✿  It's out of the blue, but i really like Unity Engine. " Unity " = Unique.
   
  ✿ 💬 Connect? lets get  👉🏼 Johanhong@naver.com / mainsqueeze030@gmail.com
  
