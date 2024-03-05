@@ -38,14 +38,9 @@
  
  - 💬 Connect? lets get  👉🏼 Johanhong@naver.com 
  
- <p align="center">
-  <h4> . . .  | . . . .</h4>
-   </p>
 
-<!--  -->
 
-<img align="right" height="270px" width="450px" alt="jpg" src="![71e72285d41dde0dee86732bf0c34e4a](https://github.com/remainaloof/remainaloof/assets/142482805/e5feac48-8833-4129-9a3d-214c2ea98fb2)
-" />
+ />
   </a>
 
 </p>
