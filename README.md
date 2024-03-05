@@ -98,13 +98,13 @@
    
 <br />
 
-<h2 align="center">🤝 with ME </h2>
+<h2 align="center">🤝 Come with ME </h2>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with People</p>
 </p>
-<p align="center">Made with ❤️ in KOREA</p>
+<p align="center">Made with in KOREA</p>
 
-<h1 align='center'>🤍<i>Stay Cool & affection !</i>🤍</h1>
+<h1 align='center'>🤍<i>Stay Cool & affection </i>🤍</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
