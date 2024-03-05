@@ -36,7 +36,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼 Johanhong@naver.com
+ - 💬 Connect? lets get  👉🏼 Johanhong@naver.com 
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
