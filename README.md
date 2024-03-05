@@ -84,7 +84,7 @@
 <h1 align='center'>⚡<i>Stay Cool & affection !</i>⚡</h1>
 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=FFC0CB&height=80&section=Footer&text=&fontSize=33)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
