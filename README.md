@@ -16,7 +16,7 @@
 
  <h5 align="center">
    <i> 
-  ❠ ✿ I believe in people who believe in themselves and move forward..so ~ ✿ ♬  </i>
+   ✿ I believe in people who believe in themselves and move forward..so ~ ❠   </i>
   </h5>
 
 <br />
