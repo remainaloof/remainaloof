@@ -68,8 +68,6 @@
 
 <p align="center">
    <img src="https://github.com/remainaloof/UNITY-C/assets/142482805/21abe169-9100-4e5c-8b40-8ca00c153e14">
-   
-//![제목 없는 디자인 (1)](https://github.com/remainaloof/UNITY-C/assets/142482805/21abe169-9100-4e5c-8b40-8ca00c153e14)
 </p>
 
 
