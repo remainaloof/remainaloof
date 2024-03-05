@@ -21,7 +21,7 @@
  </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️I believe in people who believe in themselves and move forward..so ~⚡️</i>
   </h5>
  
  
@@ -43,7 +43,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼 Johanhong@naver.com
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
@@ -60,7 +60,7 @@
 
 <br />
 
-### - Languages and Tools...
+### - Languages and Tools
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -105,13 +105,11 @@
    
 <br />
 
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<h2 align="center">🤝 with ME </h2>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in KOREA</p>
 
 <h1 align='center'>🤍<i>Stay Cool & affection !</i>🤍</h1>
 
