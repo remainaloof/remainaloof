@@ -22,10 +22,10 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> I'm 1999 11 12 birth. Graphics developer from Korea.</h3>
 </p>
 
- - 🎁 Learning C# & Unity , Unreal VFX Graph - Shader Graph
+ - 🎁 Learning C# &  (( Unity )) , VFX Graph - Shader Graph
  
  - 🔭 NEWmedia Fangirl die for X R 😼
 
@@ -34,7 +34,9 @@
  - I do fullstack and a bit of everything :heart:
  
  -  All About living life at its best.
- 
+
+ -  It's out of the blue, but i really like Unity Engine. " Unity " Unique.
+  
  - 💬 Connect? lets get  👉🏼 Johanhong@naver.com / mainsqueeze030@gmail.com
  
   </a>
@@ -49,14 +51,15 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   
-  <img src="https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-7776AB?style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visualstudio-7776AB?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/VFX Graph-2972AB?style=for-the-badge&logo=Heart&logoColor=black"/>
      <img src="https://img.shields.io/badge/ShaderGraph-2222AB?style=for-the-badge&logo=Heart&logoColor=black"/>
        <img src="https://img.shields.io/badge/AR-1000AB?style=for-the-badge&logo=Heart&logoColor=black"/>
         <img src="https://img.shields.io/badge/MotionGraphic-0001AB?style=for-the-badge&logo=Heart&logoColor=black"/>
        <img src="https://img.shields.io/badge/GPU Love-1111AB?style=for-the-badge&logo=Heart&logoColor=black"/>
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
  
 
 
