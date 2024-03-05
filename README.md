@@ -21,7 +21,7 @@
   </h5>
 
 <br />
-<img align="right" height="200px" width="200px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="350px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm 1999. 11. 12 birth. Graphics developer from Korea.</h3>
 </p>
