@@ -30,7 +30,7 @@
 
  ✿ 🎁 Learning C# &  (( Unity )) , VFX Graph - Shader Graph
  
- ✿  NEWmedia Fangirl die for X R 😼
+ ✿ 🤍 NEWmedia Fangirl die for X R 😼
 
  ✿ 🫀 Into High Energy Physics ~ and Peace.
  
