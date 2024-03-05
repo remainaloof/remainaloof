@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/CSharp-7776AB?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visualstudio-7776AB?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/VFX Graph-2976AB?style=for-the-badge&logo=Heart&logoColor=black"/>
+     <img src="https://img.shields.io/badge/ShaderGraph-2976AB?style=for-the-badge&logo=Heart&logoColor=black"/>
  
 
 
