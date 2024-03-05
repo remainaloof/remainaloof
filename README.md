@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=600&height=300&section=header&text=HanHongJo&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=600&height=300&section=header&text=HanHongJo *v*&fontSize=33)
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
