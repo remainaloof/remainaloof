@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=header&text=&fontSize=33)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=8B0000&height=100&section=header&text=&fontSize=33)
 ![header](https://capsule-render.vercel.app/api?type=egg&color=FFC0CB&height=80&section=header&text=&fontSize=33)
 <div align="center">
    <h1>Hii 🐻‍❄️  I'm <a href="https://hemant.codes">HanhongJo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
