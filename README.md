@@ -44,9 +44,7 @@
 </p>
 
 <br />
-
-### - My Sharp Knife. 🗡️
-
+<h3 align="center"><b>My Sharp Knife. 🗡️ </b></h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
